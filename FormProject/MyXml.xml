@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <Person>
+    <Firstname>Eliatosha</Firstname>
+    <Secondname>Nicodemus</Secondname>
+    <Lastname>Kwizera</Lastname>
+    <Address>
+      <Location>Mbezi Beach</Location>
+      <Postal>P.O.Box 09090</Postal>
+      <Phonenumber>0754646748</Phonenumber>
+    </Address>
+  </Person>
+</Data>
